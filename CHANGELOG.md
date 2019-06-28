@@ -1,3 +1,10 @@
+<a name="1.1.1"></a>
+## [1.1.1](https://github.com/videojs/generator-helpers/compare/v1.1.0...v1.1.1) (2019-06-28)
+
+### Chores
+
+* **package:** update packages ([cf7af76](https://github.com/videojs/generator-helpers/commit/cf7af76))
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/videojs/generator-helpers/compare/v1.0.0...v1.1.0) (2019-04-24)
 
