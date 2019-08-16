@@ -1,3 +1,10 @@
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/videojs/generator-helpers/compare/v1.1.1...v1.2.0) (2019-08-16)
+
+### Features
+
+* add cross-env ([#2](https://github.com/videojs/generator-helpers/issues/2)) ([e493a85](https://github.com/videojs/generator-helpers/commit/e493a85))
+
 <a name="1.1.1"></a>
 ## [1.1.1](https://github.com/videojs/generator-helpers/compare/v1.1.0...v1.1.1) (2019-06-28)
 
