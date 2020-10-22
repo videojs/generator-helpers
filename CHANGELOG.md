@@ -1,3 +1,20 @@
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/videojs/generator-helpers/compare/v1.2.0...v2.0.0) (2020-10-22)
+
+### Chores
+
+* update npm-merge-driver-install ([98d2dbe](https://github.com/videojs/generator-helpers/commit/98d2dbe))
+* update package version ([dd64435](https://github.com/videojs/generator-helpers/commit/dd64435))
+
+
+### BREAKING CHANGES
+
+* lint-staged no longer requires a `git add` add the end
+of all scripts. It will warn when you have `git add` as the last step
+now.
+* husky requires git >= 2.13.2
+* we now require node >= 10
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/videojs/generator-helpers/compare/v1.1.1...v1.2.0) (2019-08-16)
 
