@@ -1,3 +1,10 @@
+<a name="2.0.1"></a>
+## [2.0.1](https://github.com/videojs/generator-helpers/compare/v2.0.0...v2.0.1) (2020-10-27)
+
+### Bug Fixes
+
+* circular depencency warnings on node 14 via shx update ([b39c76e](https://github.com/videojs/generator-helpers/commit/b39c76e))
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/videojs/generator-helpers/compare/v1.2.0...v2.0.0) (2020-10-22)
 
