@@ -1,6 +1,6 @@
 {
   "name": "@videojs/generator-helpers",
-  "version": "2.0.2",
+  "version": "3.0.0",
   "description": "A package to keep all of our generator helpers packages, so everything can be updated more easily.",
   "repository": {
     "type": "git",
