@@ -26,7 +26,7 @@
     "conventional-changelog-cli": "^2.1.1",
     "conventional-changelog-videojs": "^3.0.0",
     "cross-env": "^7.0.3",
-    "doctoc": "^2.0.0",
+    "doctoc": "^2.0.1",
     "husky": "^4.3.0",
     "lint-staged": "^11.0.0",
     "not-prerelease": "^1.0.1",
@@ -35,6 +35,6 @@
     "shx": "^0.3.3"
   },
   "devDependencies": {
-    "videojs-generator-verify": "~3.0.3"
+    "videojs-generator-verify": "~4.0.0"
   }
 }
