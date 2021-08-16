@@ -1,3 +1,10 @@
+<a name="3.1.0"></a>
+# [3.1.0](https://github.com/videojs/generator-helpers/compare/v3.0.1...v3.1.0) (2021-08-16)
+
+### Features
+
+* use [@videojs](https://github.com/videojs)/update-changelog (which provides the old packages) ([4790272](https://github.com/videojs/generator-helpers/commit/4790272))
+
 <a name="3.0.1"></a>
 ## [3.0.1](https://github.com/videojs/generator-helpers/compare/v3.0.0...v3.0.1) (2021-06-24)
 
