@@ -23,7 +23,7 @@
     "prepublishOnly": "npm run test"
   },
   "dependencies": {
-    "@videojs/update-changelog": "~0.0.1",
+    "@videojs/update-changelog": "~0.0.3",
     "cross-env": "^7.0.3",
     "doctoc": "^2.0.1",
     "husky": "^4.3.0",
