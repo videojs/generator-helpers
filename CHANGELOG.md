@@ -1,3 +1,10 @@
+<a name="3.2.0"></a>
+# [3.2.0](https://github.com/videojs/generator-helpers/compare/v3.1.1...v3.2.0) (2021-12-15)
+
+### Chores
+
+* update dependencies ([#7](https://github.com/videojs/generator-helpers/issues/7)) ([96668ce](https://github.com/videojs/generator-helpers/commit/96668ce))
+
 <a name="3.1.1"></a>
 ## [3.1.1](https://github.com/videojs/generator-helpers/compare/v3.1.0...v3.1.1) (2021-08-18)
 
