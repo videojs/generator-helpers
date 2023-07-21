@@ -33,6 +33,6 @@
     "shx": "^0.3.4"
   },
   "devDependencies": {
-    "videojs-generator-verify": "~4.0.1"
+    "videojs-generator-verify": "^4.1.1"
   }
 }
